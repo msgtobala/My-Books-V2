@@ -1,6 +1,8 @@
 # Javascript Notes
 
 ## Table of Contents
+[Reference to this section](#sft)
+
 
 #### References
 
@@ -12,4 +14,36 @@
 [1]: https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 [2]: https://www.udemy.com/course/javascript-bootcamp-2016/
 [3]: https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/
-[4]: https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
+[4]: https://www.udemy.com/coursejavascript-the-complete-guide-2020-beginner-advanced/
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+# [Star Formation Theory][sft]
