@@ -19,7 +19,7 @@ Javascript is a synchronous single threaded language.
 
 JS executes code in Execution context. Execution context is a container where all our codes be executed.
 
-![Execution-Context](./images/execution-context.png)
+![Execution-Context](./images/execution-context.PNG)
 Execution context includes two major parts,
 
 1. Memory component(Environment Variable) - Variables will be stored as key value pairs
